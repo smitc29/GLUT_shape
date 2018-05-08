@@ -7,3 +7,5 @@ compiler's directions.
 
 If you have any questions, let me know at smithchrisgraphics.com 
 
+5/8/2018 - C code works properly, but for some reason, library issues have arisen without warning. Aside from this code, should work properly.
+
